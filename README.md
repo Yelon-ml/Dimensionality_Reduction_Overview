@@ -14,6 +14,8 @@ There are many techniques using in the manifold learning, some are based on pure
 - t-distributed Stochastic Neighbor Embedding (t-SNE)
 
 Below please find some screens, hope you enjoy:
+
+
 ![App Screen](https://github.com/Yelon-ml/Dimensionality_Reduction_Overview/blob/master/screens/s4.PNG)
 ![App Screen](https://github.com/Yelon-ml/Dimensionality_Reduction_Overview/blob/master/screens/s3.PNG)
 ![App Screen](https://github.com/Yelon-ml/Dimensionality_Reduction_Overview/blob/master/screens/s1.PNG)
